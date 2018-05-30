@@ -1,0 +1,127 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       0 Astana :--------------8  | 1  | 11 | 9  | 3  | 5  | 7  | 10 | 6  | 2  | 4  | 
+                                                       1 Ordabasy :------------2  | 0  | 9  | 10 | 5  | 4  | 3  | 8  | 11 | 6  | 7  | 
+                                                       2 Taraz :---------------1  | 10 | 5  | 8  | 9  | 7  | 11 | 4  | 3  | 0  | 6  | 
+                                                       3 Aktobe :--------------7  | 8  | 6  | 4  | 0  | 10 | 1  | 9  | 2  | 5  | 11 | 
+                                                       4 Kairat :--------------5  | 6  | 10 | 3  | 7  | 1  | 8  | 2  | 9  | 11 | 0  | 
+                                                       5 Barsaleno :-----------4  | 7  | 2  | 6  | 1  | 0  | 9  | 11 | 8  | 3  | 10 | 
+                                                       6 Milan :---------------11 | 4  | 3  | 5  | 8  | 9  | 10 | 7  | 0  | 1  | 2  | 
+                                                       7 Spartak :-------------3  | 5  | 8  | 11 | 4  | 2  | 0  | 6  | 10 | 9  | 1  | 
+                                                       8 Chelsea :-------------0  | 3  | 7  | 2  | 6  | 11 | 4  | 1  | 5  | 10 | 9  | 
+                                                       9 Dinama :--------------10 | 11 | 1  | 0  | 2  | 6  | 5  | 3  | 4  | 7  | 8  | 
+                                                       10 Leaverpool :---------9  | 2  | 4  | 1  | 11 | 3  | 6  | 0  | 7  | 8  | 5  | 
+                                                       11 Real Madrid :--------6  | 9  | 0  | 7  | 10 | 8  | 2  | 5  | 1  | 4  | 3  | 
+                                                                          1-Week: 
+                                                                             (H)Milan[2]-Real Madrid[3]
+                                                                             (H)Dinama[0]-Leaverpool[5]
+                                                                             (H)Barsaleno[3]-Kairat[4]
+                                                                             (H)Spartak[3]-Aktobe[1]
+                                                                             (H)Ordabasy[2]-Taraz[1]
+                                                                             (H)Chelsea[5]-Astana[2]
+
+
+                                                                          2-Week: 
+                                                                             (H)Kairat[6]-Milan[4]
+                                                                             (H)Chelsea[4]-Aktobe[1]
+                                                                             (H)Dinama[0]-Real Madrid[6]
+                                                                             (H)Spartak[3]-Barsaleno[3]
+                                                                             (H)Astana[4]-Ordabasy[3]
+                                                                             (H)Taraz[5]-Leaverpool[5]
+
+
+                                                                          3-Week: 
+                                                                             (H)Spartak[0]-Chelsea[3]
+                                                                             (H)Aktobe[1]-Milan[0]
+                                                                             (H)Kairat[2]-Leaverpool[4]
+                                                                             (H)Ordabasy[3]-Dinama[4]
+                                                                             (H)Taraz[3]-Barsaleno[5]
+                                                                             (H)Real Madrid[3]-Astana[2]
+
+
+                                                                          4-Week: 
+                                                                             (H)Ordabasy[2]-Leaverpool[1]
+                                                                             (H)Real Madrid[1]-Spartak[1]
+                                                                             (H)Taraz[4]-Chelsea[1]
+                                                                             (H)Milan[3]-Barsaleno[6]
+                                                                             (H)Kairat[4]-Aktobe[6]
+                                                                             (H)Dinama[2]-Astana[2]
+
+
+                                                                          5-Week: 
+                                                                             (H)Aktobe[0]-Astana[3]
+                                                                             (H)Spartak[0]-Kairat[3]
+                                                                             (H)Taraz[3]-Dinama[4]
+                                                                             (H)Milan[1]-Chelsea[2]
+                                                                             (H)Leaverpool[0]-Real Madrid[3]
+                                                                             (H)Barsaleno[2]-Ordabasy[4]
+
+
+                                                                          6-Week: 
+                                                                             (H)Leaverpool[6]-Aktobe[3]
+                                                                             (H)Barsaleno[2]-Astana[4]
+                                                                             (H)Ordabasy[7]-Kairat[5]
+                                                                             (H)Milan[3]-Dinama[1]
+                                                                             (H)Chelsea[4]-Real Madrid[1]
+                                                                             (H)Taraz[0]-Spartak[4]
+
+
+                                                                          7-Week: 
+                                                                             (H)Spartak[3]-Astana[2]
+                                                                             (H)Dinama[2]-Barsaleno[2]
+                                                                             (H)Chelsea[2]-Kairat[1]
+                                                                             (H)Milan[2]-Leaverpool[4]
+                                                                             (H)Ordabasy[5]-Aktobe[3]
+                                                                             (H)Real Madrid[6]-Taraz[5]
+
+
+                                                                          8-Week: 
+                                                                             (H)Ordabasy[3]-Chelsea[3]
+                                                                             (H)Dinama[0]-Aktobe[1]
+                                                                             (H)Spartak[2]-Milan[1]
+                                                                             (H)Barsaleno[2]-Real Madrid[3]
+                                                                             (H)Kairat[5]-Taraz[6]
+                                                                             (H)Astana[3]-Leaverpool[4]
+
+
+                                                                          9-Week: 
+                                                                             (H)Chelsea[4]-Barsaleno[3]
+                                                                             (H)Ordabasy[4]-Real Madrid[5]
+                                                                             (H)Dinama[3]-Kairat[2]
+                                                                             (H)Aktobe[0]-Taraz[2]
+                                                                             (H)Milan[3]-Astana[2]
+                                                                             (H)Spartak[2]-Leaverpool[2]
+
+
+                                                                          10-Week: 
+                                                                             (H)Milan[4]-Ordabasy[0]
+                                                                             (H)Aktobe[2]-Barsaleno[3]
+                                                                             (H)Dinama[2]-Spartak[5]
+                                                                             (H)Chelsea[0]-Leaverpool[6]
+                                                                             (H)Kairat[5]-Real Madrid[3]
+                                                                             (H)Astana[3]-Taraz[3]
+
+
+                                                                          11-Week: 
+                                                                             (H)Chelsea[0]-Dinama[2]
+                                                                             (H)Taraz[6]-Milan[6]
+                                                                             (H)Ordabasy[2]-Spartak[2]
+                                                                             (H)Aktobe[1]-Real Madrid[6]
+                                                                             (H)Barsaleno[4]-Leaverpool[1]
+                                                                             (H)Astana[7]-Kairat[0]
+
+
+                                                                     #    Name           PTS   W     D     L     GF    GA    GD    
+                                                                     1    Real Madrid    25    8     1     2     40    26    14    
+                                                                     2    Chelsea        22    7     1     3     28    24    4     
+                                                                     3    Leaverpool     20    6     2     3     38    26    12    
+                                                                     4    Spartak        19    5     4     2     25    20    5     
+                                                                     5    Ordabasy       17    5     2     4     35    34    1     
+                                                                     6    Barsaleno      14    4     2     5     35    33    2     
+                                                                     7    Astana         14    4     2     5     34    28    6     
+                                                                     8    Dinama         14    4     2     5     20    32    -12   
+                                                                     9    Taraz          12    3     3     5     38    41    -3    
+                                                                     10   Kairat         12    4     0     7     37    45    -8    
+                                                                     11   Milan          10    3     1     7     29    33    -4    
+                                                                     12   Aktobe         9     3     0     8     19    36    -17   
